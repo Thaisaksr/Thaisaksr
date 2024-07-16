@@ -8,9 +8,12 @@ Gosto de estudar continuamente e aprimorar minhas habilidades. Sou apaixonada pe
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript]
-![HTML]
-![CSS]
+
+JavaScript 
+
+HTML
+
+CSS
 
 
 ## 🛠️ FERRAMENTAS
