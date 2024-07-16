@@ -1,8 +1,8 @@
 # Thaisa karla Rodrigues
 ## 🚀 SOBRE MIM
 
-Engenheira Civil em transição de carreira para área de tecnologia da informação. Estou cursando gestão de TI no Cesar School, em Recife/PE.
-Estou animada com essa oportunidade de aprendizado e crescimento profissional.
+Sou Engenheira Civil e me encontrei no Design pelas suas diversas possibilidades de resolver problemas. 
+Gosto de estudar continuamente e aprimorar minhas habilidades. Sou apaixonada pelo que faço e sonho em me efetivar na nova carreira.
 
 ## 🛠️ HABILIDADES
 
